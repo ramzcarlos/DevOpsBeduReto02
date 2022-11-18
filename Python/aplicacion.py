@@ -1,4 +1,5 @@
 from muestra import *
+from BotonSiguiente import *
 class Aplicacion():
 
 	def main(self):
@@ -7,6 +8,8 @@ class Aplicacion():
 		#llamando a funcion principal.
 		inicioMuestra=Muestra()
 		inicioMuestra.main()
+		InicioBotonSiguinete=BotonSiguiente()
+		InicioBotonSiguinete.main()
 
 inicio=Aplicacion()	
 inicio.main()
