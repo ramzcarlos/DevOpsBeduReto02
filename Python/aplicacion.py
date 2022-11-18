@@ -1,13 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< .merge_file_oV5oFu
+#<<<<<<< HEAD
+#<<<<<<< .merge_file_oV5oFu
 from BotonAtras import *
-=======
+#=======
 from muestra import *
 from BotonSiguiente import *
->>>>>>> .merge_file_3chdIu
-=======
+#>>>>>>> .merge_file_3chdIu
+#=======
 from BotonAtras import *
->>>>>>> features/BotonAtras
+#>>>>>>> features/BotonAtras
 class Aplicacion():
 
 	def main(self):
